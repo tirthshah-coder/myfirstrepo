@@ -27,4 +27,4 @@ local files ---------> staging area -----------------> Repository
 
 11) git diff => if you want to check which line is modified at local file area.
 
-12) git diff --staged => if you want to check which line is modified at staging area
+12) git diff --staged => if you want to check which line is modified at staging area.
