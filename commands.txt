@@ -1,0 +1,28 @@
+             add .                     commit
+local files ---------> staging area -----------------> Repository
+<------------------------------------------------------------
+
+
+0) git help
+
+1) git init
+
+2) git status
+
+3) git add . 	    => Add all files to staging of the working directory
+
+4) git add test.txt => Add test.txt file to staging of the working directory
+
+5) git commit -m "Initial commit"
+
+6) git log => Get information of commits about who author made commits which date he commited..
+
+7) git log -n 2 => It means from buch of list of commits;how many commits you want to see.
+
+8) git log --author="tirth" => To see particular author made commits. (Name should be match).
+
+9) git log --since = 2020-04-15 =>To see commits since the mention date.
+
+10)git log --until = 2020-04-15 =>To see commits until the mention date.
+
+
