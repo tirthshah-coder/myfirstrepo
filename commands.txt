@@ -25,4 +25,4 @@ local files ---------> staging area -----------------> Repository
 
 10)git log --until = 2020-04-15 =>To see commits until the mention date.
 
-
+11) git diff => if you want to check which line is modified
