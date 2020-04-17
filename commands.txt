@@ -30,3 +30,7 @@ local files ---------> staging area -----------------> Repository
 12) git diff --staged => if you want to check which line is modified at staging area.
 
 13) git rm filename => To remove the file.
+
+14) git checkout -- filename => To pull the file from repository to local.
+
+15) git reset HEAD => To move file from staging area to local.
