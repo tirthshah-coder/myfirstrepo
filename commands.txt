@@ -34,3 +34,5 @@ local files ---------> staging area -----------------> Repository
 14) git checkout -- filename => To pull the file from repository to local.
 
 15) git reset HEAD => To move file from staging area to local.
+
+16) git commit --amend -m 'Added' => To change the commit messages.
