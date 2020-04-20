@@ -15,11 +15,14 @@ local files ---------> staging area -----------------> Repository
 
 5) git commit -m "Initial commit"
 
-6) git log => Get information of commits about who author made commits which date he commited..
+6) git log => Get information of commits about who author made commits which 
+date he commited..
 
-7) git log -n 2 => It means from buch of list of commits;how many commits you want to see.
+7) git log -n 2 => It means from buch of list of commits;
+how many commits you want to see.
 
-8) git log --author="tirth" => To see particular author made commits. (Name should be match).
+8) git log --author="tirth" => To see particular author made commits. 
+(Name should be match).
 
 9) git log --since = 2020-04-15 =>To see commits since the mention date.
 
@@ -55,3 +58,6 @@ local files ---------> staging area -----------------> Repository
 	!app.js => It will not ignore this app.js file 
 
 21) git rm --cached (filename) => It will not delete file;git will not track this file.
+
+22)Git will not keep track of an empty folder.To keep track make file .gitkeep
+(it can be anything) inside that empty folder now git will track it.
