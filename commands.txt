@@ -36,3 +36,9 @@ local files ---------> staging area -----------------> Repository
 15) git reset HEAD => To move file from staging area to local.
 
 16) git commit --amend -m 'Added' => To change the commit messages.
+
+17) git reset --soft (SHA) => To reset in repository.
+
+18) git reset (SHA) => To reset in staging and repository.
+
+17) git reset --hard (SHA) => To reset in local,staging and repository.
