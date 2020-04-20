@@ -53,3 +53,5 @@ local files ---------> staging area -----------------> Repository
 	*.js => Ignore all js files.
 	node_modules => Ignore node_modules.
 	!app.js => It will not ignore this app.js file 
+
+21) git rm --cached (filename) => It will not delete file;git will not track this file.
