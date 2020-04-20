@@ -42,3 +42,14 @@ local files ---------> staging area -----------------> Repository
 18) git reset (SHA) => To reset in staging and repository.
 
 17) git reset --hard (SHA) => To reset in local,staging and repository.
+
+***********Note:- clean will not work after it goes to staging area **************
+
+18) git clean -n => Show query of what files will be removed.
+
+19) git clean -f => Remove all the files .
+
+20) Make a file of .gitignore and under that write which file you want to ignore.
+	*.js => Ignore all js files.
+	node_modules => Ignore node_modules.
+	!app.js => It will not ignore this app.js file 
