@@ -61,3 +61,19 @@ how many commits you want to see.
 
 22)Git will not keep track of an empty folder.To keep track make file .gitkeep
 (it can be anything) inside that empty folder now git will track it.
+
+23) git ls-tree (SHA) => It gives the directory or file structure.
+
+24) git log --oneline => It will display in one line.
+
+25) git log --oneline -2 => It will show first 2 log display in one line.
+
+26) git log (SHA2)..(SHA1) => It will give the range of log.
+
+27) git log --grep="ignore" => Here it will show log that is matching with ignore.
+
+28) git log --format=oneline =>It formats in oneline.
+
+29) git log --format=short => It format and give short desc of log.
+
+30) git log --format=fuller => It format and give long desc of log.  
