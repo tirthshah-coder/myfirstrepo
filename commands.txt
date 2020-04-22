@@ -77,3 +77,18 @@ how many commits you want to see.
 29) git log --format=short => It format and give short desc of log.
 
 30) git log --format=fuller => It format and give long desc of log.  
+
+31) git branch => TO check the branch.
+
+32) git branch newnav(anybranchname) => To create new branch.
+
+33) git checkout (Branchname) => To switch between the branch
+
+34) git commit -am 'Added' => Shortcut of adding and commit both.
+
+35) git checkout -b footer(anybranchname) => Another way to create branch.
+
+36) git checkout -- (filename) => To get rid of this file.
+
+37) git log --graph --oneline --decorate --all => To see all log of all branches.
+ 
