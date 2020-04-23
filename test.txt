@@ -6,4 +6,9 @@ New one
 GOne
 
 Chart
+<<<<<<< Updated upstream
 Design
+=======
+Design
+Useless
+>>>>>>> Stashed changes

@@ -101,3 +101,12 @@ how many commits you want to see.
 41) git branch -D (branchname) => It will forcefully delete branch.
 
 42) git merge (branchname) => It will merge with your branch.
+
+43) git merge --no-ff (branchname) => It will not do fastforwarding branch.
+
+44) git merge --ff-only (branchname) => It will only do if it is fastforward.
+
+45) git stash save "Msg" => It is just like recycle bin if you want to switch 
+    betn branches without commit.
+
+46) git stash list => It will retreive the list.
