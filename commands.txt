@@ -91,4 +91,13 @@ how many commits you want to see.
 36) git checkout -- (filename) => To get rid of this file.
 
 37) git log --graph --oneline --decorate --all => To see all log of all branches.
- 
+
+38) git diff (branchname2)..(branchname1) => Give range of log betn them.
+
+39) git branch -m (oldbranchname)(newbranchname) => It will rename branch name.
+
+40) git branch -d (branchname) => It will delete empty branch. 
+
+41) git branch -D (branchname) => It will forcefully delete branch.
+
+42) git merge (branchname) => It will merge with your branch.
