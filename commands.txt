@@ -125,3 +125,9 @@ how many commits you want to see.
 49) git remote -v => To see more details.
 
 50) git push -u origin master(branchname) => To push it on github.
+
+51) git clone (filelink) => It will download it.
+
+52) git clone (filelink) signup(name of file)=> It will download it with give name.
+
+ 
