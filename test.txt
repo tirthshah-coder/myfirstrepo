@@ -7,8 +7,14 @@ GOne
 
 Chart
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Design
 =======
 Design
 Useless
+>>>>>>> Stashed changes
+=======
+Design
+
+Added useless lines..
 >>>>>>> Stashed changes

@@ -110,3 +110,18 @@ how many commits you want to see.
     betn branches without commit.
 
 46) git stash list => It will retreive the list.
+
+47) git stash pop stash@{0} => It will give that stash work and pop out from trash.
+
+48) git stash apply stash@{0} => It will give that stash work and it is still there in
+    trash.
+
+49) git stash drop stash@{0} => It will clean the stash of 0 position.
+
+47) git stash clear => It will clean all the stash.
+
+48) git remote add origin https://github.com/tirthshah-coder/myfirstrepo.git => 
+
+49) git remote -v => To see more details.
+
+50) git push -u origin master(branchname) => To push it on github.
